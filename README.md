@@ -11,7 +11,8 @@ Built on the Google Analytics sample dataset (714K users, 903K sessions, 3 simul
 **Experiment Health Monitoring**
 Real-time SRM detection, power analysis, and a composite health score so you know if your experiment is trustworthy before you read the results.
 
-![Health Cards](screenshots/health_cards.png)
+![Health Cards](<img width="1765" height="802" alt="Screenshot 2026-06-29 193050" src="https://github.com/user-attachments/assets/3482aeb1-9ee3-4abb-89e7-ba62e921b641" />
+)
 
 ---
 
